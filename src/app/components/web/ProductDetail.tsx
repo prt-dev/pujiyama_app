@@ -77,7 +77,7 @@ export default function ProductDetail({ productId, initialSize }: ProductDetailP
             <img
               src={product.img || product.image_url || "/assets/best-selling.png"}
               alt={product.name}
-              className="max-h-72 w-auto object-contain transition-transform duration-300 hover:scale-105"
+              className="object-contain transition-transform duration-300 hover:scale-105"
             />
             {product.category && (
               <span className="absolute top-3 left-3 rounded-full bg-[#de142a] px-3 py-1 text-[11px] font-bold text-white shadow-xs">
