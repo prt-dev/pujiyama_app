@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Pujyama Mix Floral Dhoop Sticks",
+    "description": "Elicit the feeling of Spiritual Calm & Transformation with Pujya Aama Mix Floral Dhoop Sticks. 100% Charcoal-Free, made with a pure natural base and eco-friendly ingredients. Comes with a complimentary ceramic stand.",
+    "price": 149,
+    "sku": "PUJYA-FLORAL-001",
+    "stock_quantity": 100,
+    "category_id": 1,
+    "image_url": "/assets/products/mix-floral-front.jpg",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "name": "Pujyama Gulab (Rose) Dhoop Sticks",
+    "description": "Gulab Dhoop offers a sweet, refreshing rose fragrance that creates a soothing atmosphere and enhances spiritual practices like meditation and puja. Features relaxing aroma, calming ambience, and long-lasting freshness.",
+    "price": 149,
+    "sku": "PUJYA-GULAB-002",
+    "stock_quantity": 80,
+    "category_id": 2,
+    "image_url": "/assets/products/gulab-benefits.jpg",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "name": "Pujyama Parfum 1M Luxury Dhoop Sticks",
+    "description": "Premium incense dhoop sticks with intense perfume fragrance (Smells Like Perfume). Slow-burning, bamboo-less dhoop sticks that come complete with an artisan ceramic dhoop holder stand.",
+    "price": 175,
+    "sku": "PUJYA-PARFUM-003",
+    "stock_quantity": 60,
+    "category_id": 3,
+    "image_url": "/assets/products/dhoop-sticks-packet.jpg",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "name": "Pujyama Pure Chandan (Sandalwood) Dhoop Sticks",
+    "description": "Sacred Mysore Sandalwood aroma formulated with 100% charcoal-free natural base. Perfect for daily temple seva, evening aarti, and deep spiritual meditation. Marketed by GuruKripa Trader's, Noida.",
+    "price": 160,
+    "sku": "PUJYA-CHANDAN-004",
+    "stock_quantity": 75,
+    "category_id": 4,
+    "image_url": "/assets/products/box-features.jpg",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "name": "Pujyama Mogra Blossom Divine Dhoop Sticks",
+    "description": "Captivating fresh Mogra floral fragrance that fills your sacred home with divine energy and positive vibrations. Handcrafted with non-toxic botanical extracts.",
+    "price": 149,
+    "sku": "PUJYA-MOGRA-005",
+    "stock_quantity": 50,
+    "category_id": 1,
+    "image_url": "/assets/products/mix-floral.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "name": "Pujyama 4-in-1 Divine Dhoop Samriddhi Combo Box",
+    "description": "The ultimate devotional gift box containing Mix Floral, Pure Gulab, Chandan, and Parfum Dhoop packs along with 2 ceramic stands. Perfect for festive celebrations, housewarming, and daily puja rituals.",
+    "price": 499,
+    "sku": "PUJYA-COMBO-006",
+    "stock_quantity": 40,
+    "category_id": 5,
+    "image_url": "/assets/products/combo-pack.png",
+    "status": 1
+  }
+]

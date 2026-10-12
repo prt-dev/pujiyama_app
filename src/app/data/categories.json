@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Floral Dhoop",
+    "slug": "floral-dhoop",
+    "description": "Natural Mix Floral and Mogra blossom dhoop sticks crafted from real botanical extracts. 100% Charcoal-free for spiritual calm and peace.",
+    "image_url": "/assets/products/mix-floral-front.jpg",
+    "parent_id": null,
+    "status": 1
+  },
+  {
+    "id": 2,
+    "name": "Rose (Gulab) Dhoop",
+    "slug": "rose-gulab-dhoop",
+    "description": "Sweet, refreshing pure Gulab fragrance designed to soothe your senses, enhance meditation, and create a divine temple atmosphere.",
+    "image_url": "/assets/products/gulab-benefits.jpg",
+    "parent_id": null,
+    "status": 1
+  },
+  {
+    "id": 3,
+    "name": "Luxury Parfum Dhoop",
+    "slug": "luxury-parfum-dhoop",
+    "description": "Modern French perfume-inspired dhoop sticks with intense long-lasting diffusion. Includes complimentary ceramic dhoop holder stand.",
+    "image_url": "/assets/products/dhoop-sticks-packet.jpg",
+    "parent_id": null,
+    "status": 1
+  },
+  {
+    "id": 4,
+    "name": "Sandalwood (Chandan)",
+    "slug": "sandalwood-chandan",
+    "description": "Sacred pure Chandan dhoop sticks imparting traditional temple tranquility, negative energy purification, and spiritual focus.",
+    "image_url": "/assets/products/box-features.jpg",
+    "parent_id": null,
+    "status": 1
+  },
+  {
+    "id": 5,
+    "name": "Combo Packs",
+    "slug": "combo-packs",
+    "description": "Multi-fragrance devotional gift sets and family saver packs featuring all signature Pujyama fragrances with ceramic stands.",
+    "image_url": "/assets/products/combo-pack.png",
+    "parent_id": null,
+    "status": 1
+  }
+]
